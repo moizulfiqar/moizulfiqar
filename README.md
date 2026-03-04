@@ -12,7 +12,11 @@ Computer Science student at Habib University · Karachi, Pakistan
 
 ---
 
-I build systems across autonomous robotics, full-stack development, and applied machine learning. Currently completing a BSc (Honours) in Computer Science at Habib University (Class of 2026), with coursework spanning Deep Learning, AI, Linear Algebra, and Quantum Computing.
+I am a Computer Science student with a deep interest in theoretical computer science, particularly complexity theory, and a growing focus on full-stack web development. I am drawn to problems that sit at the intersection of rigorous thinking and practical impact, and I approach my work with the belief that meaningful solutions come from consistent effort rather than shortcuts.
+
+My longer-term goal is to leverage a strong CS foundation to venture into entrepreneurship, building products that bridge theoretical computer science with real-world applications. Outside of technology, I follow tennis closely and care deeply about the well-being of animals and the natural world.
+
+*"Discipline is the strongest form of self love." — Lewis Howes*
 
 ---
 
@@ -39,22 +43,6 @@ Fine-tuned mBERT, DistilBERT, and XLM-RoBERTa on SemEval 2026 Task 3. Applied da
 
 **Full Stack DBMS** · *May 2025 – Jan 2026*
 Production system built with Next.js, Node.js, Supabase, and Tailwind CSS, deployed for institutional use at KVTC.
-
----
-
-### Skills
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
