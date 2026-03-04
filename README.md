@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-CS Honours student at **Habib University** (Class of 2026) with hands-on experience across autonomous systems, full-stack development, and applied AI/ML. I enjoy building things that are both technically rigorous and genuinely useful — from production DBMS platforms to real-time computer vision pipelines.
+CS Honours student at **Habib University** (Class of 2026) with hands-on experience across autonomous systems, full-stack development, and applied AI/ML. I enjoy building things that are both technically rigorous and genuinely useful from production DBMS platforms to real-time computer vision pipelines.
 
 I care deeply about clean code, open collaboration, and leaving every project better than I found it.
 
