@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 CS Honours student at **Habib University** (Class of 2026) with hands-on experience across autonomous systems, full-stack development, and applied AI/ML. I enjoy building things that are both technically rigorous and genuinely useful from production DBMS platforms to real-time computer vision pipelines.
 
@@ -21,7 +21,7 @@ I care deeply about clean code, open collaboration, and leaving every project be
 
 ---
 
-## 🔨 Currently Building
+## Currently Building
 
 | Project | Description | Stack |
 |---|---|---|
@@ -30,27 +30,27 @@ I care deeply about clean code, open collaboration, and leaving every project be
 
 ---
 
-## 💼 Experience
+## Experience
 
-**🤖 Autonomous Systems Researcher** — *Toyota / Indus Motor Company* *(Jun–Aug 2025)*
+**Autonomous Systems Researcher** — *Toyota / Indus Motor Company* *(Jun–Aug 2025)*
 Built and tested autonomous navigation pipelines using **ROS2** and **NAV2** for an industrial tow truck; integrated object detection and V2V communication modules for factory safety.
 
-**🧑‍💻 Software Engineer** — *Karachi Vocational Training Centre* *(May 2025–Jan 2026)*
+**Software Engineer** — *Karachi Vocational Training Centre* *(May 2025–Jan 2026)*
 Designed and deployed a full-stack DBMS to digitize institutional records, integrating sensitive healthcare data with strict privacy controls.
 
-**📊 IT Intern** — *Lucky Cement Ltd (LEPCL)* *(May–Jun 2024)*
+**IT Intern** — *Lucky Cement Ltd (LEPCL)* *(May–Jun 2024)*
 Digitized archival databases, built an internal web portal, and automated workflows with **Power Automate** + **Power BI** dashboards.
 
 ---
 
-## 🧪 Selected Projects
+## Selected Projects
 
 **📐 Dimensional Aspect-Based Sentiment Analysis** *(SemEval 2026 Task 3)*
 Fine-tuned multilingual transformer models (mBERT, DistilBERT, XLM-RoBERTa) with data augmentation for robust multi-dimensional sentiment classification.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <div align="center">
 
@@ -75,17 +75,17 @@ Fine-tuned multilingual transformer models (mBERT, DistilBERT, XLM-RoBERTa) with
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🌐 **OWASP** — Open source contributor with merged pull requests *(Jan 2026)*
-- 🤗 **Hugging Face** — Certified in AI Agents Fundamentals & Fine-Tuning LLMs *(Oct 2025)*
-- 🥉 **Code Bash 2.0** — 3rd Place, competitive programming contest *(Sep 2025)*
-- 🌍 **Invent For The Planet** — Runner-up at Texas A&M's 48-hour global design challenge *(Feb 2025)*
-- 👨‍🏫 **Teaching Assistant** — Programming Fundamentals & Operating Systems *(2024–2025)*
+- **OWASP** — Open source contributor with merged pull requests *(Jan 2026)*
+- **Hugging Face** — Certified in AI Agents Fundamentals & Fine-Tuning LLMs *(Oct 2025)*
+- **Code Bash 2.0** — 3rd Place, competitive programming contest *(Sep 2025)*
+- **Invent For The Planet** — Runner-up at Texas A&M's 48-hour global design challenge *(Feb 2025)*
+- **Teaching Assistant** — Programming Fundamentals & Operating Systems *(2024–2025)*
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc (Hons) Computer Science** — Habib University *(2022–2026)*
 *Deep Learning · AI · Linear Algebra · Quantum Computing*
