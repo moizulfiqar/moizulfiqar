@@ -5,8 +5,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zulfiqar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizulfiqar)
-[![GitHub](https://img.shields.io/badge/GitHub-moizulfiqar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moizulfiqar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zulfiqar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moiz-zulfiqar/)
 [![Email](https://img.shields.io/badge/Email-moizulfiqar@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizulfiqar@gmail.com)
 [![Location](https://img.shields.io/badge/Karachi-Pakistan-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
