@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>
 <div align="center">
 
 <!-- Animated header -->
