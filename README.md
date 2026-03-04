@@ -1,4 +1,4 @@
-I’m a Computer Science student and Software Engineer with experience at [Toyota](https://www.linkedin.com/company/indus-motor-company-limited/) and [Lucky Cement](https://www.linkedin.com/company/lucky-cement-limited/). I build full-stack and applied systems with a focus on clarity, reliability, and clean architecture.
+I’m a Computer Science student and Software Engineer with experience at [Toyota]([https://www.linkedin.com/company/indus-motor-company-limited/](https://www.linkedin.com/company/indus-motor-company-ltd/) and [Lucky Cement](https://www.linkedin.com/company/lucky-cement-limited/). I build full-stack and applied systems with a focus on clarity, reliability, and clean architecture.
 
 My interests include machine learning, autonomous systems, and complexity theory. I hold certifications from [Hugging Face](https://www.linkedin.com/company/huggingface/), actively engage in competitive programming, have served as a Teaching Assistant, and am currently working on a computer vision project as my Final Year Project.
 
