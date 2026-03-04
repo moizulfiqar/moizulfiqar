@@ -1,35 +1,104 @@
 <h1 align="center">Hi 👋, I'm Moiz Zulfiqar</h1>
-<div align='center'>
-<p align="center"> 
-   Visitor count:
-   <img src="https://profile-counter.glitch.me/7xflade/count.svg" align="center"/> 
- </p></div>
- 
-<h3 align="left">Computer Science Major | Mathematics Minor | Researcher | Teaching Assistant | Competitive Programming | Complexity Theory | Quantum Computing</h3>
- <p align="left">
-  <a href="https://github.com/7xflade">
-    <img src="https://github-stats-alpha.vercel.app/api?username=7xflade&cc=22272e&width=500px&tc=37BCF6&ic=fff&bc=fff">
-  </a>
- </p>
+<div align="center">
 
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moiz-zulfiqar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moiz-zulfiqar/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28771925/moiz-zulfiqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28771925/moiz-zulfiqar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/moizulfiqar16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moizulfiqar16/" height="30" width="40" /></a>
-<a href="https://instagram.com/moizulfikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moizulfikar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/flade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/flade" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/moiz08229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/moiz08229" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/flade7x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/flade7x/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/flade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/flade" height="30" width="40" /></a>
-</p>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Moiz%20Zulfiqar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%2FML%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descColor=94a3b8" />
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7xflade&theme=github_dark)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/7xflade/7xflade/output/github-snake.svg" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moiz%20Zulfiqar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizulfiqar)
+[![GitHub](https://img.shields.io/badge/GitHub-moizulfiqar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moizulfiqar)
+[![Email](https://img.shields.io/badge/Email-moizulfiqar@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizulfiqar@gmail.com)
+[![Location](https://img.shields.io/badge/Karachi-Pakistan-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👋 About Me
+
+CS Honours student at **Habib University** (Class of 2026) with hands-on experience across autonomous systems, full-stack development, and applied AI/ML. I enjoy building things that are both technically rigorous and genuinely useful — from production DBMS platforms to real-time computer vision pipelines.
+
+I care deeply about clean code, open collaboration, and leaving every project better than I found it.
+
+---
+
+## 🔨 Currently Building
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛒 **Automated Shelf Monitoring** | Real-time retail shelf tracking with restocking alerts | YOLOv8, React Native |
+| 🏥 **Full Stack DBMS @ KVTC** | Production system digitizing psychiatric & healthcare records | Next.js, Node.js, Supabase, Tailwind |
+
+---
+
+## 💼 Experience
+
+**🤖 Autonomous Systems Researcher** — *Toyota / Indus Motor Company* *(Jun–Aug 2025)*
+Built and tested autonomous navigation pipelines using **ROS2** and **NAV2** for an industrial tow truck; integrated object detection and V2V communication modules for factory safety.
+
+**🧑‍💻 Software Engineer** — *Karachi Vocational Training Centre* *(May 2025–Jan 2026)*
+Designed and deployed a full-stack DBMS to digitize institutional records, integrating sensitive healthcare data with strict privacy controls.
+
+**📊 IT Intern** — *Lucky Cement Ltd (LEPCL)* *(May–Jun 2024)*
+Digitized archival databases, built an internal web portal, and automated workflows with **Power Automate** + **Power BI** dashboards.
+
+---
+
+## 🧪 Selected Projects
+
+**📐 Dimensional Aspect-Based Sentiment Analysis** *(SemEval 2026 Task 3)*
+Fine-tuned multilingual transformer models (mBERT, DistilBERT, XLM-RoBERTa) with data augmentation for robust multi-dimensional sentiment classification.
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599c?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMyAyMGgxOEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🌐 **OWASP** — Open source contributor with merged pull requests *(Jan 2026)*
+- 🤗 **Hugging Face** — Certified in AI Agents Fundamentals & Fine-Tuning LLMs *(Oct 2025)*
+- 🥉 **Code Bash 2.0** — 3rd Place, competitive programming contest *(Sep 2025)*
+- 🌍 **Invent For The Planet** — Runner-up at Texas A&M's 48-hour global design challenge *(Feb 2025)*
+- 👨‍🏫 **Teaching Assistant** — Programming Fundamentals & Operating Systems *(2024–2025)*
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) Computer Science** — Habib University *(2022–2026)*
+*Deep Learning · AI · Linear Algebra · Quantum Computing*
+
+**Cambridge A Levels** — Nixor College *(2020–2022)*
+*Mathematics · Physics · Chemistry*
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
